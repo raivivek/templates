@@ -1,3 +1,4 @@
+```
 .
 ├── data
 ├── doc
@@ -5,6 +6,7 @@
 ├── scripts
 ├── tmp
 └── work
+```
 
 * `data`: Raw data, possible symlinked to an original, unmodifiable resource
 * `doc`: Manuscripts, documents, presentations
